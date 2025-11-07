@@ -1,0 +1,29 @@
+name: ecofor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - pip
+  - geopandas
+  - joblib
+  - rasterstats
+  - rasterio
+  - statsmodels
+  - earthengine-api
+  - seaborn
+  - scikit-learn
+  - scikit-image
+  - requests
+  - h5py
+  - pyarrow
+  - sqlalchemy
+  - fsspec
+  - descartes
+  - xlrd
+  - openpyxl
+  - arch-py
+  - ca-certificates
+  - certifi
+  - openssl
+  - pygeos
